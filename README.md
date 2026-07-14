@@ -1,2 +1,2 @@
 # Sentinel-Edge
-A team of curious innovators passionate about AI, cybersecurity, and building impactful technology that solves real-world problems.
+An AI-powered security intelligence platform that correlates cybersecurity telemetry and banking transaction behavior to proactively detect cyber threats, fraud, and emerging quantum-related risks with explainable risk analysis.
